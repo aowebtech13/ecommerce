@@ -60,7 +60,7 @@ export const storeCustomization = {
       de: "Kasse",
     },
     phone: "+965 505 631288",
-    logo: "https://res.cloudinary.com/ahossain/image/upload/v1697687802/settings/logo-light_hls14v.svg",
+    logo: "https://leacent.org/wp-content/uploads/2025/10/carrygo_logo_vrdtw8.png",
   },
   home: {
     coupon_status: true,
@@ -118,7 +118,7 @@ export const storeCustomization = {
       de: "Schnelle Lieferung zu Ihnen nach Hause",
     },
     quick_delivery_description: {
-      en: "There are many products you will find in our shop, Choose your daily necessary product from our KachaBazar shop and get some special offers. See Our latest discounted products from here and get a special discount.",
+      en: "There are many products you will find in our shop, Choose your daily necessary product from our Carrygo Shop and get some special offers. See Our latest discounted products from here and get a special discount.",
       de: "Es gibt viele Produkte, die Sie in unserem Shop finden. Wählen Sie Ihr täglich benötigtes Produkt aus unserem KachaBazar-Shop und erhalten Sie einige Sonderangebote. Sehen Sie sich hier unsere neuesten reduzierten Produkte an und sichern Sie sich einen Sonderrabatt.",
     },
     quick_delivery_button: {
@@ -142,7 +142,7 @@ export const storeCustomization = {
       de: "Holen Sie sich Ihren täglichen Bedarf in Ihrem CloudCleaver-Shop",
     },
     daily_need_description: {
-      en: "There are many products you will find in our shop, Choose your daily necessary product from our KachaBazar shop and get some special offers.",
+      en: "There are many products you will find in our shop, Choose your daily necessary product from our Carrygo Shop and get some special offers.",
       de: "Es gibt viele Produkte, die Sie in unserem Shop finden. Wählen Sie Ihr täglich benötigtes Produkt aus unserem KachaBazar-Shop und erhalten Sie einige Sonderangebote.",
     },
     daily_need_app_link: "https://www.apple.com/app-store/",
@@ -186,7 +186,7 @@ export const storeCustomization = {
       de: "Über uns",
     },
     top_title: {
-      en: "Welcome to our KachaBazar shop",
+      en: "Welcome to our Carrygo Shop",
       de: "Willkommen in unserem KachaBazar-Shop",
     },
     top_description: {
@@ -867,7 +867,7 @@ export const storeCustomization = {
       "https://res.cloudinary.com/ahossain/image/upload/v1636729752/facebook-page_j7alju.png",
     meta_keywords: "e-commerce, online store",
     meta_title:
-      "KachaBazar - React Grocery & Organic Food Store e-commerce Template",
+      "Carrygo- Ecommerce",
     meta_url: "https://kachabazar-store-nine.vercel.app/",
   },
 };

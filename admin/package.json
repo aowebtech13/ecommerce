@@ -90,7 +90,7 @@
     "preview": "vite preview",
     "test": "vitest"
   },
-  "author": "HtmlLover",
+  "author": "Carrygo",
   "license": "Regular",
   "devDependencies": {
     "@types/react": "^18.0.37",

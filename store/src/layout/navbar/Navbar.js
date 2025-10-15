@@ -69,7 +69,7 @@ const Navbar = () => {
                   priority
                   src={
                     storeCustomizationSetting?.navbar?.logo ||
-                    "/logo/logo-light.svg"
+                    "/logo/logo.png"
                   }
                   alt="logo"
                 />
